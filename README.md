@@ -3,8 +3,6 @@
 ## 👨‍💻 About Me
 👦 I'm a CS student at **University of South Florida** specializing in **Full-Stack Web Development**. I'm passionate about building user-friendly and secure web applications.
 
-🔭 I’m currently looking for an internship in Software Engineering and Web Development.
-
 ## 📖 Skills
 <table>
     <tr>
